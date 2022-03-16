@@ -2,5 +2,9 @@
 
 export(gofchisq)
 export(indchisq)
+export(plotchisq)
+importFrom(graphics,plot)
+importFrom(stats,dchisq)
 importFrom(stats,pchisq)
 importFrom(stats,qchisq)
+importFrom(stats,rchisq)

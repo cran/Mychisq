@@ -1,9 +1,13 @@
-a0953fba021cdf040685299e168eec79 *DESCRIPTION
-da2f247c5fcef3e1482617fa2498c035 *NAMESPACE
+e6d4d953800d028d0bfab144366f06ed *DESCRIPTION
+c838bd3f4423951efd596b4105853790 *NAMESPACE
 4d4e0824a42de32a0d72e032a44d8e61 *R/gofchisq.R
 b45d864ccb3f30b808aa6996f7ee44a7 *R/indchisq.R
+8523c618dcde66953b16e7a4e47c6b97 *R/plotchisq.R
 09d4cd02eae0729a24aeee6583b9f1ab *man/gofchisq.Rd
 091b48c109f6669a7b570be3272eeb44 *man/indchisq.Rd
+3c20402af302aa68c78159ed86bf571c *man/plotchisq.Rd
 0b91bda3346c8dc32e19fbba7eb35285 *tests/testthat.R
+f810db6868181c82be98db3ea82165eb *tests/testthat/Rplots.pdf
 6e4dce9defaa53112c844a4b2f54e744 *tests/testthat/test-gofchisq.R
 3025bd60102cbf4933ce8c7c76b65506 *tests/testthat/test-indchisq.R
+89c4a146c046e32f7487a14c391d402e *tests/testthat/test-plotchisq.R
